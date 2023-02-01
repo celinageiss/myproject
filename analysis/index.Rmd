@@ -10,3 +10,6 @@ editor_options:
 
 Welcome to my research website.
 For now, this will be my PhD playground repo.
+
+
+Click on this [link](first-analysis.html) to see my results.
